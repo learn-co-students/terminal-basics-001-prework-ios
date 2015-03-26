@@ -1,5 +1,5 @@
 ---
-tags: bash, terminal, command line, ironboard, video
+tags: bash, terminal, command line, learn, video
 language: bash
 format: video
 ---
