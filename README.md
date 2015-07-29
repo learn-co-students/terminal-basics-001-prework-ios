@@ -1,8 +1,4 @@
----
-tags: bash, terminal, command line, learn, video
-language: bash
-format: video
----
+
 
 # Terminal Basics
 
